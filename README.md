@@ -20,11 +20,9 @@ npm run preview
 
 Output folder: **`out/`** (upload this or use CI below).
 
-## Deploy free (lifetime)
+## Deploy
 
-**Start here:** **[DEPLOY-FREE.md](./DEPLOY-FREE.md)** — GitHub + Vercel in ~10 minutes.
-
-See also **[DEPLOY.md](./DEPLOY.md)** for other hosts:
+See **[DEPLOY.md](./DEPLOY.md)** for step-by-step guides:
 
 | Platform       | Difficulty | Notes                          |
 |----------------|------------|--------------------------------|
