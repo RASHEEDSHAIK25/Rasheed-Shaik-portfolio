@@ -11,7 +11,6 @@ This site builds to a static **`out/`** folder — works on any free host.
 
 No environment variables needed for Vercel.
 
----
 
 ## 2. Netlify
 
@@ -20,7 +19,6 @@ No environment variables needed for Vercel.
 3. Build settings are read from `netlify.toml` automatically.
 4. Deploy.
 
----
 
 ## 3. GitHub Pages (free, uses your GitHub username)
 
@@ -31,7 +29,6 @@ No environment variables needed for Vercel.
 
 The workflow sets `NEXT_PUBLIC_BASE_PATH` automatically from the repo name.
 
----
 
 ## 4. Manual upload (any static host)
 
